@@ -1,5 +1,5 @@
 # 👋 Hello there! 
-### 👨‍💻 My name is Ákos. I 🛠 kézműves szoftver.
+### 👨‍💻 My name is Ákos. I 🛠 artisanal software.
 
 ### 😎 Check out [@akoskovacs](https://github.com/akoskovacs) or [sokacsavok.com](https://sokacsavok.com) for my boring 😴 personal stuff.
 
